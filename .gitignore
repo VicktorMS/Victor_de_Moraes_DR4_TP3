@@ -1,0 +1,34 @@
+# Arquivos de cache e compilação
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Diretórios de ambiente virtual
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Configurações do editor
+.vscode/
+.idea/
+*.swp
+
+# Logs e banco de dados local
+*.log
+*.sqlite3
+
+# Configurações de sistema e arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Arquivos de pacotes e dependências
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+
+# Arquivos de configuração de pacotes
+*.lock
