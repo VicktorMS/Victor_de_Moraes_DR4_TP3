@@ -4,7 +4,7 @@ Prezado Avaliador,
 
 Neste projeto, você encontrará 9 resoluções das 12 questões apresentadas no Teste de Performance (TP3). As orientações para executar o projeto estão detalhadas no arquivo README.
 
-Conforme solicitado no enunciado da questão, o projeto foi [submetido em um repositório](https://github.com/VicktorMS/Victor_de_Moraes_DR4_TP2).
+Conforme solicitado no enunciado da questão, o projeto foi [submetido em um repositório](https://github.com/VicktorMS/Victor_de_Moraes_DR4_TP3).
 
 Caso tenha qualquer dúvida ou precise de informações adicionais, não hesite em entrar em contato diretamente comigo.
 
